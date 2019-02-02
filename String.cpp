@@ -10,7 +10,7 @@ int main() {
  cout << "Please enter a car manufacturer" << endl;
  cin >> car;
  
- cout << "Your choice of manufacturer is" +car << endl;
+ cout << "Your choice of manufacturer is " +car << endl;
  
  return 0;
 }
